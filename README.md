@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## Workshops Home Page
 
-You can use the [editor on GitHub](https://github.com/geoffswc/geoffswc.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+The page contains an overview of the github repositories for my programming and data analysis workshops at UCSF. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Core Workshops
 
-### Markdown
+Offered once per quarter. Focus is on hands on learning, with minimal lecture. Designed for participants with little or no previous programming experience. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Intro to Python Part 1
+- Intro to Python Part 2
+- Intro to SQL
+- Intro to Unix
+- Intro to Version Control with Git and GitHub
 
-```markdown
-Syntax highlighted code block
+## Intermediate to Advanced Workshops
 
-# Header 1
-## Header 2
-### Header 3
+Offered once per quarter. Thes workshops have one or more prerequesites and are designed for participants who have previous programming experience or have completed the relevant pre-requisites above. These workshops are hands-on and involve live coding sessions. Some more advanced material will be covered through presentation or downloads. 
 
-- Bulleted
-- List
+- Data Analysis with Python, Pandas, and SQL
+- Python, JSON, and Web APIs
+- Python and MongoDB 
+- Supervised Machine Learning with Scikit-Learn
+- Document Classification with Scikit-Learn
+- Text Extraction, Sentiment Analysis, and Document Classification with Google Cloud AutoML
 
-1. Numbered
-2. List
+## Electives
 
-**Bold** and _Italic_ and `Code` text
+These workshops are offered on a rotating basis, and are not necessarily offered every quarter. Although all workshops involve some hands-on coding, some material will be presented through lecture, slides, or demos. 
 
-[Link](url) and ![Image](src)
-```
+- Natural Language Processing and the UCSF "No More Silence" collection. 
+- CSV Repair with Python (managing poorly formatted CSV files in research).
+- Pytho SparkML for Classification and Regression
+- Web harvesting with Python, Beautiful Soup and Scrapy
+- Repeatable research with code and public datasets - Case Studies
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/geoffswc/geoffswc.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
