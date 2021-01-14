@@ -1,6 +1,6 @@
 ## Workshops Home Page
 
-The page contains an overview of the github repositories for my programming and data analysis workshops at UCSF. 
+The page contains an overview of my github repositories for programming and data analysis workshops at UCSF. 
 
 ## Core Workshops
 
