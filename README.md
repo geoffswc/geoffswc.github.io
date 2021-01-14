@@ -4,7 +4,7 @@ The page contains an overview of my github repositories for programming and data
 
 ## Core Workshops
 
-Offered once per quarter. Focus is on hands on learning, with minimal lecture. Designed for participants with little or no previous programming experience. 
+Offered once per quarter. Focus is on hands on learning, with minimal lecture. These workshops are designed for participants with little or no previous programming experience. 
 
 - Intro to Python Part 1
 - Intro to Python Part 2
@@ -14,7 +14,7 @@ Offered once per quarter. Focus is on hands on learning, with minimal lecture. D
 
 ## Intermediate to Advanced Workshops
 
-Offered once per quarter. Thes workshops have one or more prerequesites and are designed for participants who have previous programming experience or have completed the relevant pre-requisites above. These workshops are hands-on and involve live coding sessions. Some more advanced material will be covered through presentation or downloads. 
+Offered once per quarter. These workshops have one or more prerequesites and are designed for participants who have previous programming experience or have completed the relevant pre-requisites above. Intermediate and advanced workshops are hands-on and involve live coding sessions. However, some more advanced material will be covered through presentation or downloads. 
 
 - Data Analysis with Python, Pandas, and SQL
 - Python, JSON, and Web APIs
@@ -25,7 +25,7 @@ Offered once per quarter. Thes workshops have one or more prerequesites and are 
 
 ## Electives
 
-These workshops are offered on a rotating basis, and are not necessarily offered every quarter. Although all workshops involve some hands-on coding, some material will be presented through lecture, slides, or demos. 
+Offered on a rotating basis, not all electives are offered every quarter. Although all workshops involve some hands-on coding, some material will be presented through lecture, slides, or demos. 
 
 - Natural Language Processing and the UCSF "No More Silence" collection. 
 - CSV Repair with Python (managing poorly formatted CSV files in research).
