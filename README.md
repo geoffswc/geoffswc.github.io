@@ -25,7 +25,7 @@ Offered once per quarter. These workshops have one or more prerequesites and are
 
 ## Electives
 
-Offered on a rotating basis, not all electives are offered every quarter. Although all workshops involve some hands-on coding, some material will be presented through lecture, slides, or demos. 
+Offered on a rotating basis, not all electives are offered every quarter. Although all workshops involve some hands-on coding, some material will be presented through lecture, slides, or demos. These workshops often present a case study or an investigation of an interesting data set. 
 
 - Natural Language Processing and the UCSF "No More Silence" collection. 
 - CSV Repair with Python (managing poorly formatted CSV files in research).
