@@ -29,7 +29,7 @@ Offered on a rotating basis, not all electives are offered every quarter. Althou
 
 - Natural Language Processing and the UCSF "No More Silence" collection. 
 - CSV Repair with Python (managing poorly formatted CSV files in research).
-- Pytho SparkML for Classification and Regression
+- PySpark.ML for Classification and Regression
 - Web harvesting with Python, Beautiful Soup and Scrapy
 - Repeatable research with code and public datasets - Case Studies
 
