@@ -1,16 +1,16 @@
 ## Workshops Home Page
 
-The page contains an overview of my github repositories for programming and data analysis workshops at UCSF. 
+The page contains an overview of github repositories for programming and data analysis workshops at UCSF. 
 
 ## Core Workshops
 
-Offered once per quarter. Focus is on hands on learning, with minimal lecture. These workshops are designed for participants with little or no previous programming experience. For introductory workshops, UCSF library DSI uses the software carpentry tutorials. 
+Offered once per quarter. Focus is on hands on learning, with minimal lecture. These workshops are designed for participants with little or no previous programming experience. For introductory/core workshops, UCSF library DSI uses the [software carpentry]( tutorials. 
 
-- Intro to Python Part 1
-- Intro to Python Part 2
-- Intro to SQL
-- Intro to Unix
-- Intro to Version Control with Git and GitHub
+- [Intro to Python Part 1](https://courses.ucsf.edu/course/view.php?id=5281)
+- [Intro to Python Part 2](https://courses.ucsf.edu/course/view.php?id=5296)
+- [Intro to SQL](https://courses.ucsf.edu/course/view.php?id=4401)
+- [Intro to Unix](https://courses.ucsf.edu/course/view.php?id=5327)
+- [Intro to Version Control with Git and GitHub](https://courses.ucsf.edu/course/view.php?id=5208)
 
 ## Intermediate to Advanced Workshops
 
