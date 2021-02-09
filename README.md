@@ -27,11 +27,12 @@ Offered once per quarter. These workshops have one or more prerequesites and are
 
 Offered on a rotating basis, not all electives are offered every quarter. Although all workshops involve some hands-on coding, some material will be presented through lecture, slides, or demos. These workshops often present a case study or an investigation of an interesting data set. 
 
-- Natural Language Processing and the UCSF "No More Silence" collection. 
-- CSV Repair with Python (managing poorly formatted CSV files in research).
-- PySpark.ML for Classification and Regression
-- Web harvesting with Python, Beautiful Soup and Scrapy
-- Repeatable research with code and public datasets - Case Studies
+- [Natural Language Processing and the UCSF "No More Silence" collection](https://github.com/geoffswc/NLP-NoMoreSilence-Workshop)
+- [CSV Repair with Python (managing poorly formatted CSV files in research)](https://github.com/geoffswc/CSV-Repair)
+- [PySpark.ML for Classification and Regression](https://github.com/geoffswc/PySparkMLRegression)
+- [Web harvesting with Python, Beautiful Soup and Scrapy](https://github.com/geoffswc/NCSL-Coronavirus-Data)
+- [Repeatable research with code and public datasets - Case Studies](https://github.com/geoffswc/Code_Handoff_Workshop)
+- [Investigating the College Scorecard Data Set](https://github.com/geoffswc/Data-Science-Related-Degrees)
 
 
 
