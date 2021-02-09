@@ -17,11 +17,11 @@ Offered once per quarter. Focus is on hands on learning, with minimal lecture. T
 Offered once per quarter. These workshops have one or more prerequesites and are designed for participants who have previous programming experience or have completed the relevant pre-requisites above. Intermediate and advanced workshops are hands-on and involve live coding sessions. However, some more advanced material will be covered through presentation or downloads. 
 
 - [Data Analysis with Python, Pandas, and SQL](https://github.com/geoffswc/Python-SQL-Workshop)
-- Python, JSON, and Web APIs
-- Python and MongoDB 
-- Supervised Machine Learning with Scikit-Learn
-- Document Classification with Scikit-Learn
-- Text Extraction, Sentiment Analysis, and Document Classification with Google Cloud AutoML
+- [Python, JSON, and Web APIs](https://github.com/geoffswc/Python-JSON-Workshop)
+- [Python and MongoDB](https://github.com/geoffswc/MongoDB-Python-Workshop)
+- [Supervised Machine Learning with Scikit-Learn](https://github.com/geoffswc/Covid-Test-Predictions)
+- [Document Classification with Scikit-Learn](https://github.com/geoffswc/Scikit-Learn-Workshop)
+- [Text Extraction, Sentiment Analysis, and Document Classification with Google Cloud AutoML](https://github.com/geoffswc/GCP-Machine-Learning-API-Workshop)
 
 ## Electives
 
