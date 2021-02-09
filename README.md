@@ -4,7 +4,7 @@ The page contains an overview of my github repositories for programming and data
 
 ## Core Workshops
 
-Offered once per quarter. Focus is on hands on learning, with minimal lecture. These workshops are designed for participants with little or no previous programming experience. 
+Offered once per quarter. Focus is on hands on learning, with minimal lecture. These workshops are designed for participants with little or no previous programming experience. For introductory workshops, UCSF library DSI uses the software carpentry tutorials. 
 
 - Intro to Python Part 1
 - Intro to Python Part 2
@@ -16,7 +16,7 @@ Offered once per quarter. Focus is on hands on learning, with minimal lecture. T
 
 Offered once per quarter. These workshops have one or more prerequesites and are designed for participants who have previous programming experience or have completed the relevant pre-requisites above. Intermediate and advanced workshops are hands-on and involve live coding sessions. However, some more advanced material will be covered through presentation or downloads. 
 
-- Data Analysis with Python, Pandas, and SQL
+- [Data Analysis with Python, Pandas, and SQL](Python-SQL-Workshop)
 - Python, JSON, and Web APIs
 - Python and MongoDB 
 - Supervised Machine Learning with Scikit-Learn
