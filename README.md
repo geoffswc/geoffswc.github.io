@@ -4,7 +4,7 @@ The page contains an overview of github repositories for programming and data an
 
 ## Core Workshops
 
-Offered once per quarter. Focus is on hands on learning, with minimal lecture. These workshops are designed for participants with little or no previous programming experience. For introductory/core workshops, UCSF library DSI uses the [software carpentry]( tutorials. 
+Offered once per quarter. Focus is on hands on learning, with minimal lecture. These workshops are designed for participants with little or no previous programming experience. For introductory/core workshops, UCSF library DSI uses the software carpentry tutorials. 
 
 - [Intro to Python Part 1](https://courses.ucsf.edu/course/view.php?id=5281)
 - [Intro to Python Part 2](https://courses.ucsf.edu/course/view.php?id=5296)
