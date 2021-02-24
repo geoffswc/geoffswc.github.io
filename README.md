@@ -10,16 +10,11 @@ The GitHub links will take you to the Git repository for a workshop. The UCSF DS
 
 Offered once per quarter. Focus is on hands on learning, with minimal lecture. These workshops are designed for participants with little or no previous programming experience. For introductory/core workshops, UCSF library DSI uses the software carpentry tutorials. 
 
-- Intro to Python Part 1
-  - [CLE](https://courses.ucsf.edu/course/view.php?id=5281)
-- Intro to Python Part 2
-  - [CLE](https://courses.ucsf.edu/course/view.php?id=5296)
-- Intro to SQL
-  - [Intro CLE SQL](https://courses.ucsf.edu/course/view.php?id=4401)
-- Intro to Unix
-  - [CLE](https://courses.ucsf.edu/course/view.php?id=5327)
-- Intro to Version Control with Git and GitHub
-  - [CLE](https://courses.ucsf.edu/course/view.php?id=5208)
+- Intro to Python Part 1 ([CLE](https://courses.ucsf.edu/course/view.php?id=5281))
+- Intro to Python Part 2 ([CLE](https://courses.ucsf.edu/course/view.php?id=5296))
+- Intro to SQL ([CLE](https://courses.ucsf.edu/course/view.php?id=4401))
+- Intro to Unix ([CLE](https://courses.ucsf.edu/course/view.php?id=5327))
+- Intro to Version Control with Git and GitHub ([CLE](https://courses.ucsf.edu/course/view.php?id=5208))
 
 ## Intermediate to Advanced Workshops
 
