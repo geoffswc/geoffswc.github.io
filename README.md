@@ -1,6 +1,6 @@
-## Workshops Home Page
+## UCSF Data Science Initiative Programming Workshops Home Page
 
-The page contains an overview of github repositories for programming and data analysis workshops at UCSF. 
+The page contains an overview of github repositories for Python, SQL, and Unix series programming and data analysis workshops at UCSF. 
 
 ## Core Workshops
 
