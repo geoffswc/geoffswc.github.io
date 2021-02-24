@@ -23,9 +23,9 @@ Offered once per quarter. These workshops have one or more prerequesites and are
 - Data Analysis with Python, Pandas, and SQL([CLE](https://courses.ucsf.edu/course/view.php?id=5203) | [GitHub](https://github.com/geoffswc/Python-SQL-Workshop))
 - Python, JSON, and Web APIs ([CLE](https://courses.ucsf.edu/course/view.php?id=5247) | [GitHub](https://github.com/geoffswc/Python-JSON-Workshop))
 - Python and MongoDB ([CLE](https://courses.ucsf.edu/course/view.php?id=8036) | [GitHub](https://github.com/geoffswc/MongoDB-Python-Workshop))
-- Supervised Machine Learning with Scikit-Learn ([CLE]() | [GitHub](https://github.com/geoffswc/Covid-Test-Predictions))
-- Document Classification with Scikit-Learn ([CLE]() | [GitHub](https://github.com/geoffswc/Scikit-Learn-Workshop))
-- Text Extraction, Sentiment Analysis, and Document Classification with Google Cloud AutoML([CLE]() | [GitHub](https://github.com/geoffswc/GCP-Machine-Learning-API-Workshop))
+- Supervised Machine Learning with Scikit-Learn ([CLE](https://courses.ucsf.edu/course/view.php?id=8043) | [GitHub](https://github.com/geoffswc/Covid-Test-Predictions))
+- Document Classification with Scikit-Learn ([CLE](https://courses.ucsf.edu/course/view.php?id=8249) | [GitHub](https://github.com/geoffswc/Scikit-Learn-Workshop))
+- Text Extraction, Sentiment Analysis, and Document Classification with Google Cloud AutoML([CLE](https://courses.ucsf.edu/course/view.php?id=8237) | [GitHub](https://github.com/geoffswc/GCP-Machine-Learning-API-Workshop))
 
 ## Electives
 
