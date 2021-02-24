@@ -2,17 +2,24 @@
 
 The page contains an overview of github repositories for Python, SQL, and Unix series programming and data analysis workshops at UCSF. 
 
+The CLE links will take you to workshop page on the UCSF [CLE](http://courses.ucsf.edu) (Collaborative Learning Environment). These pages contain an overview, links, supporting material, code, and recordings of previous workshops.
+
+The GitHub links will take you to the Git repository for a workshop. The UCSF DSI uses software carpentry material for most of the core workshops. GitHub links are available for intermediate and elective workshops developed at UCSF. 
+
 ## Core Workshops
 
 Offered once per quarter. Focus is on hands on learning, with minimal lecture. These workshops are designed for participants with little or no previous programming experience. For introductory/core workshops, UCSF library DSI uses the software carpentry tutorials. 
 
-Note: These links will take you to the software carpentry home pages.  
-
-- [Intro to Python Part 1](https://courses.ucsf.edu/course/view.php?id=5281)
-- [Intro to Python Part 2](https://courses.ucsf.edu/course/view.php?id=5296)
-- [Intro to SQL](https://courses.ucsf.edu/course/view.php?id=4401)
-- [Intro to Unix](https://courses.ucsf.edu/course/view.php?id=5327)
-- [Intro to Version Control with Git and GitHub](https://courses.ucsf.edu/course/view.php?id=5208)
+- Intro to Python Part 1
+  - [CLE](https://courses.ucsf.edu/course/view.php?id=5281)
+- Intro to Python Part 2
+  - [CLE](https://courses.ucsf.edu/course/view.php?id=5296)
+- Intro to SQL
+  - [Intro CLE SQL](https://courses.ucsf.edu/course/view.php?id=4401)
+- Intro to Unix
+  - [CLE](https://courses.ucsf.edu/course/view.php?id=5327)
+- Intro to Version Control with Git and GitHub
+  - [CLE](https://courses.ucsf.edu/course/view.php?id=5208)
 
 ## Intermediate to Advanced Workshops
 
