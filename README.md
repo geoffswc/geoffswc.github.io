@@ -1,10 +1,12 @@
-## UCSF Data Science Initiative Programming Workshops Home Page
+## UCSF Data Science Initiative Programming Workshops
 
 The page contains an overview of github repositories for Python, SQL, and Unix series programming and data analysis workshops at UCSF. 
 
 ## Core Workshops
 
 Offered once per quarter. Focus is on hands on learning, with minimal lecture. These workshops are designed for participants with little or no previous programming experience. For introductory/core workshops, UCSF library DSI uses the software carpentry tutorials. 
+
+Note: These links will take you to the software carpentry home pages.  
 
 - [Intro to Python Part 1](https://courses.ucsf.edu/course/view.php?id=5281)
 - [Intro to Python Part 2](https://courses.ucsf.edu/course/view.php?id=5296)
